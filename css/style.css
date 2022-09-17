@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caladea&display=swap');
+body {
+    margin: 0;
+    background-color: palevioletred;
+}
+.intro {
+    background-color: whitesmoke;
+    padding: 50px;
+    font-family: 'Crimson Text', serif;
+    color:skyblue;
+    font-size: 40px;
+    text-align: center;
+}
+.middle {
+    background-color: palevioletred;
+    font-family: 'Caladea', serif;
+    color: skyblue;
+    font-size: 25px;
+}
+.end {
+    background-color: gray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+hr{
+    border: 2px dashed skyblue;
+    clear: both;
+}
+img{
+    width: 35%;
+    height: auto;
+}
+.L-1{
+    width: 15%;
+    float: left;
+}
+.L-2{
+    width: 85%;
+    float: left;
+}
+.LE-1{
+    width: 25%;
+    float: left;
+}
+.LE-2{
+    width: 75%;
+    float: left;
+}
+.S-1{
+    width: 15%;
+    float: left;
+}
+.S-2{
+    width: 85%;
+    float: left;
+}
+.me{
+    width: 15%;
+    height: auto;
+    border-radius: 30px;
+}
+.Contact{
+    background-color: palevioletred;
+    font-family: 'Crimson Text', serif;
+    color:skyblue;
+    font-size: 40px;
+    text-align: center;
+}
+.Name-1{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.Name-2{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.Email-1{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.Email-2{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.Message-1{
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+.Message-2{
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.img-1{
+    position: relative;
+    width: 50%;
+    float: left;
+}
+.img-2{
+    position: absolute;
+    width: 50%;
+    float: left;
+    right: 0;
+
+}
+.butt{
+    margin: 50px;
+    background-color: aliceblue;
+    display: block;
+    padding: 10px 7px;
+    clear: both;
+    text-align: center;
+    width: 100px 75px;
+}
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
